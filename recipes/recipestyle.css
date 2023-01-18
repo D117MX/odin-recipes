@@ -1,0 +1,23 @@
+.foodname {
+    text-align: center;
+}
+
+#pizzabody {
+    background: linear-gradient(to bottom right, green,white,red);
+}
+
+#burgerbody {
+    background: linear-gradient(to bottom right, red, white, blue);
+}
+
+#tacobody {
+    background: linear-gradient(to bottom right, green, white, red);
+}
+
+.foodimg {
+    display: block;
+    height: auto;
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,43 @@
+body {
+    background: linear-gradient(to bottom right,aqua,yellow);
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+.button {
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+    padding: 14px 28px;
+}
+
+#recipeimg {
+    display: block;
+    height: auto;
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#alignbutt {
+    list-style-type: none;
+    text-align: center;
+    margin: auto;
+    padding: 0%;
+    position: relative;
+}
+
+#tacobutt {
+    background-color: green;
+}
+
+#pizzabutt {
+    background-color: red;
+}
+
+#hamburgerbutt {
+    background-color: rgb(49, 135, 240);
+}
