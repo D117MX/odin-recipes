@@ -32,12 +32,15 @@ h1 {
 
 #tacobutt {
     background-color: green;
+    margin: 10px;
 }
 
 #pizzabutt {
     background-color: red;
+    margin: 10px;
 }
 
 #hamburgerbutt {
     background-color: rgb(49, 135, 240);
+    margin: 10px;
 }
